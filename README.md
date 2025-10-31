@@ -122,7 +122,7 @@ Please make sure your changes follow the existing code style and include appropr
 
 ## 👤 Author
 
-Your Name — [@yourhandle](https://github.com/luaaths)
+Your Name — logeshlohit6(https://github.com/logeshlohit6)
 Project Link: [https://github.com/luaaths/live-chat-application(https://github.com/your-username/chattables)
 
 ```
